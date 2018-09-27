@@ -10,7 +10,7 @@ For that you need this link on your html head container:
 
 All the design (color, fonts) can be changed in the css. :-)
 
-I'll look like this: 
+It'll look like this: 
 
 Desktop preview:
 ![Screenshot](ss1.png)
